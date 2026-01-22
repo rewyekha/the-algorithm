@@ -1,7 +1,7 @@
 # UserUserGraph (UUG)
 
 ## What is it
-User User Graph (UUG) is a Finalge thrift service built on the GraphJet framework. In maintains a graph of user-user relationships and serves user recommendations based on traversals of this graph.
+User User Graph (UUG) is a Finagle thrift service built on the GraphJet framework. It maintains a graph of user-user relationships and serves user recommendations based on traversals of this graph.
 
 ## How is it used on Twitter
 UUG recommends users to follow based on who your follow graph have recently followed.
